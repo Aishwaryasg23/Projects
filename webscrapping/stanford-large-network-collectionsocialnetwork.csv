@@ -1,0 +1,25 @@
+Name,Type,Nodes,Edges,Description
+ego-Facebook,Undirected,"4,039","88,234",Social circles from Facebook (anonymized)
+ego-Gplus,Directed,"107,614","13,673,453",Social circles from Google+
+ego-Twitter,Directed,"81,306","1,768,149",Social circles from Twitter
+soc-Epinions1,Directed,"75,879","508,837",Who-trusts-whom network of Epinions.com
+soc-LiveJournal1,Directed,"4,847,571","68,993,773",LiveJournal online social network
+soc-Pokec,Directed,"1,632,803","30,622,564",Pokec online social network
+soc-Slashdot0811,Directed,"77,360","905,468",Slashdot social network from November 2008
+soc-Slashdot0922,Directed,"82,168","948,464",Slashdot social network from February 2009
+wiki-Vote,Directed,"7,115","103,689",Wikipedia who-votes-on-whom network
+wiki-RfA,"Directed, Signed","10,835","159,388",Wikipedia Requests for Adminship (with text)
+gemsec-Deezer,Undirected,"143,884","846,915",Gemsec Deezer dataset
+gemsec-Facebook,Undirected,"134,833","1,380,293",Gemsec Facebook dataset
+soc-RedditHyperlinks,"Directed, Signed, Temporal, Attributed","55,863","858,490",Hyperlinks between subreddits on Reddit
+soc-sign-bitcoin-otc,"Weighted, Signed, Directed, Temporal","5,881","35,592",Bitcoin OTC web of trust network
+soc-sign-bitcoin-alpha,"Weighted, Signed, Directed, Temporal","3,783","24,186",Bitcoin Alpha web of trust network
+comm-f2f-Resistance,"Weighted, Directed, Temporal",451,"3,126,993",Dynamic face-to-face interaction network between group of people
+musae-twitch,Undirected,"34,118","429,113",Social networks of Twitch users.
+musae-facebook,Undirected,"22,470","171,002",Facebook page-page network with page names.
+act-mooc,"Bipartite, Directed, Attributed, Temporal","7,143","411,749","Student actions on a MOOC platform, with student drop-out binary labels."
+musae-github,Undirected,"37,700","289,003",Social network of Github developers.
+feather-deezer-social,Undirected,"28,281","92,752",Social network of Deezer users from Europe.
+feather-lastfm-social,Undirected,"7,624","27,806",Social network of LastFM users from Asia.
+twitch-gamers,Undirected,"168,114","6,797,557",Social network of Twitch users.
+congress-Twitter,Directed,475,"13,289",Twitter interaction network for the US Congress
